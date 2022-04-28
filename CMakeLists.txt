@@ -167,6 +167,7 @@ catkin_install_python(PROGRAMS
   scripts/publisher.py
   scripts/server.py
   scripts/client.py
+  scripts/params.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
