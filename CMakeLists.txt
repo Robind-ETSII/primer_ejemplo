@@ -172,6 +172,7 @@ catkin_install_python(PROGRAMS
   scripts/fibonacci_server.py
   scripts/fibonacci_client.py
   scripts/params.py
+  scripts/read_angle_robot.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
