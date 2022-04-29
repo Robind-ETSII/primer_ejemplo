@@ -173,6 +173,7 @@ catkin_install_python(PROGRAMS
   scripts/fibonacci_client.py
   scripts/params.py
   scripts/read_angle_robot.py
+  scripts/controlled_rotation.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
